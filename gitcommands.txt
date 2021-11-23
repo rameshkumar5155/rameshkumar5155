@@ -1,0 +1,15 @@
+git commands
+
+git init
+git clone url
+git config --global "user.name "rameshkumar"
+git config --global "user.email "rameshkumarkaranam@gmail.com 
+git status
+git add filename
+git status
+git log
+git commit "file add by rameshkumar karanam"
+git log
+git add remote url
+git push -u origin master
+git pull --rebase origin 
