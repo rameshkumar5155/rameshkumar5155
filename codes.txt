@@ -1,0 +1,1 @@
+ find . -type f -name "*.java" -mmin +10
